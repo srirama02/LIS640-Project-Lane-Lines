@@ -1,20 +1,20 @@
 # LIS640-Project-Lane-Lines
 
 # DATA SETS
-  # Kaggle curved lanes datases
-  - https://www.kaggle.com/datasets/bnyadmohammed/curvelanes/data
+  - Kaggle curved lanes datases
+    - https://www.kaggle.com/datasets/bnyadmohammed/curvelanes/data
 
-  # Roboflow
-  - https://universe.roboflow.com/maanasa-prasad/new-lane-detection
+  - Roboflow
+    - https://universe.roboflow.com/maanasa-prasad/new-lane-detection
 
-  # Waymo
-  - https://waymo.com/open/download/
+  - Waymo
+    - https://waymo.com/open/download/
 
-  # TuSimple 
-  - https://www.kaggle.com/datasets/manideep1108/tusimple
+  - TuSimple 
+    - https://www.kaggle.com/datasets/manideep1108/tusimple
 
-  # Kitti
-  - https://www.kaggle.com/datasets/kpgeek/kitti-roadlane-detection-dataset-224-x-224
+  - Kitti
+    - https://www.kaggle.com/datasets/kpgeek/kitti-roadlane-detection-dataset-224-x-224
 
-  # Robowflow 2
-  - https://universe.roboflow.com/autonomous-umjvo/lane-detection-2-qpx6p
+  - Robowflow 2
+    - https://universe.roboflow.com/autonomous-umjvo/lane-detection-2-qpx6p
