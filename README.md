@@ -18,3 +18,6 @@
 
   - Robowflow 2
     - https://universe.roboflow.com/autonomous-umjvo/lane-detection-2-qpx6p
+
+  - Roboflow 3
+    - https://universe.roboflow.com/computer-vision-controls-research-group/lane-detection-tjaa0/dataset/1
